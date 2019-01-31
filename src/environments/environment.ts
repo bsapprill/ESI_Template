@@ -4,6 +4,17 @@
 
 export const environment = {
   production: false
+
+  /* This must be configured specifically for each projects Firebase
+  firebase: {
+    apiKey: ,
+    authDomain: ,
+    databaseURL: ,
+    projectId: ,
+    storageBucket: ,
+    messagingSenderId: 
+  }
+  */
 };
 
 /*
