@@ -1,5 +1,8 @@
 import { AppPage } from './app.po';
+<<<<<<< HEAD
 import { browser, logging } from 'protractor';
+=======
+>>>>>>> AngularTemplate/master
 
 describe('workspace-project App', () => {
   let page: AppPage;
@@ -10,6 +13,7 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
+<<<<<<< HEAD
     expect(page.getTitleText()).toEqual('Welcome to ESITemplate!');
   });
 
@@ -19,5 +23,8 @@ describe('workspace-project App', () => {
     expect(logs).not.toContain(jasmine.objectContaining({
       level: logging.Level.SEVERE,
     }));
+=======
+    expect(page.getParagraphText()).toEqual('Welcome to AngularTemplate!');
+>>>>>>> AngularTemplate/master
   });
 });

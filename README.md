@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # ESITemplate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
+=======
+# AngularTemplate
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
+>>>>>>> AngularTemplate/master
 
 ## Development server
 

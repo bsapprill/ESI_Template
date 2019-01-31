@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+import 'hammerjs';
+>>>>>>> AngularTemplate/master
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
@@ -9,4 +13,8 @@ if (environment.production) {
 }
 
 platformBrowserDynamic().bootstrapModule(AppModule)
+<<<<<<< HEAD
   .catch(err => console.error(err));
+=======
+  .catch(err => console.log(err));
+>>>>>>> AngularTemplate/master

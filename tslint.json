@@ -1,6 +1,10 @@
 {
   "rulesDirectory": [
+<<<<<<< HEAD
     "codelyzer"
+=======
+    "node_modules/codelyzer"
+>>>>>>> AngularTemplate/master
   ],
   "rules": {
     "arrow-return-shorthand": true,
@@ -65,7 +69,10 @@
     ],
     "no-misused-new": true,
     "no-non-null-assertion": true,
+<<<<<<< HEAD
     "no-redundant-jsdoc": true,
+=======
+>>>>>>> AngularTemplate/master
     "no-shadowed-variable": true,
     "no-string-literal": false,
     "no-string-throw": true,
